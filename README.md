@@ -5,6 +5,7 @@ Practical Test for the position of Software Research Engineer
 It is a normal day at the office. You hear developers talking about how difficult it is to add good search features into their applications. You decide to research some technologies that will provide long term value to the company. Your mentor suggests looking into ElasticSearch.
 
 As a research engineer, here are the basics skills that you are expected to demonstrate:
+
 1. Learn the basics of elasticsearch and what it does without going crazy and deep diving into things that do not matter. Knowing how “deep to look into” a technology without any guidance and judging when to stop is the skill of utmost value in a research engineer.
 1. Create a sandbox environment where you can play around with elasticsearch on your own.
     1. Hint: https://training.shoppinpal.com/ngram-with-elasticsearch.html
