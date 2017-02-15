@@ -1,6 +1,10 @@
 # Software-Research-Engineer
 Practical Test for the position of Software Research Engineer
 
+# Submissions
+1. The code for your finished assignment must be checked into a **public** GitHub repo. The URL for that GitHub repo must be sent to use so that we can start checking.
+1. Additional points will be given when the code is hosted somewhere (heroku/aws/digitalOcean/dockerCloud etc.) so that we can access the hosted URL from our browser and see it working live.
+
 # Test
 It is a normal day at the office. You hear developers talking about how difficult it is to add good search features into their applications. You decide to research some technologies that will provide long term value to the company. Your mentor suggests looking into ElasticSearch.
 
